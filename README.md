@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @flor-galarza
 - 👀 I’m interested in  los lenguajes de programación - 🌱 I’m currenly learning  cs50
--💞️ I’m looking to collaborate on 
 - 📫 How to reach me  email: florencia.galarzamaumay@gmail.com
 
 <!---
